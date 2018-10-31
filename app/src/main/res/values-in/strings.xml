@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="sub_title">Daftar Klub Bola Terbaik di Dunia</string>
+    <string name="settings_leangue">Pengaturan Bahasa</string>
+    <string name="menu_profil">Profil</string>
+
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Barcelona FC adalah club dari liga spanyol</item>
+        <item>Real Madrid FC adalah club dari liga spanyol</item>
+        <item>Bayern Munchen FC adalah club dari liga jerman</item>
+        <item>Manchester City FC adalah club dari liga inggris</item>
+        <item>Manchester United FC adalah club dari liga inggris</item>
+        <item>Chelsea FC adalah club dari liga inggris</item>
+        <item>AC Milan FC adalah club dari liga italia</item>
+        <item>Arsenal FC adalah club dari liga inggris</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+
+</resources>

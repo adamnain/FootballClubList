@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Football Club</string>
+    <string name="sub_title">List of the best football club in the world</string>
+    <string name="settings_leangue">Settings Leangue</string>
+    <string name="menu_profil">Profile</string>
+    <string name="nama_adam">Muhammad Adam Dzulqarnain</string>
+    <string name="nim_adam">1157050100</string>
+
+
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <string-array name="club_desc">
+        <item>Barcelona FC is a club from the Spanish league</item>
+        <item>Real Madrid is a club from the Spanish league</item>
+        <item>Barcelona FC is a club from the Germany league</item>
+        <item>Manchester City is a club from the English Premier league</item>
+        <item>Manchester United is a club from the English Premier league</item>
+        <item>Chelsea is a club from the English Premier league</item>
+        <item>AC Milan is a club from the La Liga Italian league</item>
+        <item>Arsenal FC is a club from English Premier League</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+
+</resources>
